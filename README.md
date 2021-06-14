@@ -1,2 +1,1 @@
-Interface básica com HTML e CSS feita apenas para praticar
-
+This is a login page which was built using HTML5, CSS3 and Javascript
